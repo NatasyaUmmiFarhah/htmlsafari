@@ -1,0 +1,121 @@
+*{
+    font-family:'Times New Roman', Times, serif
+}
+
+body {
+    background-position: center;
+}
+
+h1 {
+    text-align: justify;
+    background-color: darkolivegreen;
+    color:whitesmoke
+    text-decoration: underline greenyellow;
+    text-shadow: 2px 2px 5px green;
+}
+
+.box {
+    width: 1200px;
+    height: 270px;
+    padding: 15px;
+    border: 5px rgb(191, 240, 243);
+    margin: 20px;
+    background-color: rgb(120, 70%, 35%, 0.5);
+    text-align: justify;
+}
+
+h2 {
+
+    text-align: justify;
+    background-color: green rgb(140, 204, 140)
+    color:rgb(100, 98, 0)
+    Text-decorartion : overline rgb(100, 98, 0)
+}
+
+.icon {
+    font-size: 24px;
+    color:rgb(95, 152, 231);
+    margin: 10px;
+}
+a:link{
+    color:darkgreen;
+}
+a:hover {
+    color:hotpink;
+}
+a:visited {
+    color:purple;
+}
+a:active {
+    color: hotpink; 
+}
+
+h3 {
+    text-align:justify;
+    background-color: rgb(138, 214, 158);
+    color: rgb(7, 87, 68);
+}
+
+p{
+    border: 5px solid rgb(235, 238, 59);
+    outline: 10px rgb(3, 114, 21) ridge;
+    outline-offset: 3px;
+    background-color: rgb(197, 239, 149);
+    padding: 5px;
+    height: 160px;
+}
+
+ div {
+        padding: 10px;
+        height: 300px;
+        margin: 50px;
+        color: brown;
+        font-size: 20px;
+    }
+
+    .border {
+        border-style: dashed;
+        border-color: rgba(51, 185, 55, 0.856);
+        border-radius: 5px;
+    }
+    img {
+        width: 150px;
+        height: 150px;
+        margin: 5px;
+        float:left;
+    }
+
+    table, th, td {
+        border: 4px solid;
+        table position:center;
+      }
+      .center {
+        margin-left: auto;
+        margin-right: auto;
+        width: 50%; /* Set a specific width */
+    }
+
+ul {
+    background: #02704f;
+    color: darkgreen;
+    padding:20px;
+}
+ul li {
+    background:rgb(149, 229, 21);
+    color: rgb(100, 98, 0);
+    margin: 5px;
+}
+
+h5 {
+    text-align: justify;
+    background-color: rgb(2, 46, 17);
+    color: rgb(240, 240, 80);
+}
+
+address {
+    background-color: maroon;
+    color: grey;
+}
+
+
+
